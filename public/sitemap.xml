@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <!-- Homepage -->
+  <url>
+    <loc>https://zenhouzinternational.com/en</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zenhouzinternational.com/en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://zenhouzinternational.com/ar" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zenhouzinternational.com/en" />
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://zenhouzinternational.com/ar</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zenhouzinternational.com/en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://zenhouzinternational.com/ar" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zenhouzinternational.com/en" />
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- About -->
+  <url>
+    <loc>https://zenhouzinternational.com/en/about</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zenhouzinternational.com/en/about" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://zenhouzinternational.com/ar/about" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zenhouzinternational.com/ar/about</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zenhouzinternational.com/en/about" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://zenhouzinternational.com/ar/about" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Products Main -->
+  <url>
+    <loc>https://zenhouzinternational.com/en/products</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zenhouzinternational.com/en/products" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://zenhouzinternational.com/ar/products" />
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://zenhouzinternational.com/ar/products</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zenhouzinternational.com/en/products" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://zenhouzinternational.com/ar/products" />
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Product Categories -->
+  <url>
+    <loc>https://zenhouzinternational.com/en/products/baby-care</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zenhouzinternational.com/en/products/baby-care" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://zenhouzinternational.com/ar/products/baby-care" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zenhouzinternational.com/ar/products/baby-care</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zenhouzinternational.com/en/products/baby-care" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://zenhouzinternational.com/ar/products/baby-care" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zenhouzinternational.com/en/products/food-grocery</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zenhouzinternational.com/en/products/food-grocery" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://zenhouzinternational.com/ar/products/food-grocery" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zenhouzinternational.com/ar/products/food-grocery</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zenhouzinternational.com/en/products/food-grocery" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://zenhouzinternational.com/ar/products/food-grocery" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zenhouzinternational.com/en/products/household</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zenhouzinternational.com/en/products/household" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://zenhouzinternational.com/ar/products/household" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zenhouzinternational.com/ar/products/household</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zenhouzinternational.com/en/products/household" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://zenhouzinternational.com/ar/products/household" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zenhouzinternational.com/en/products/personal-care</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zenhouzinternational.com/en/products/personal-care" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://zenhouzinternational.com/ar/products/personal-care" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zenhouzinternational.com/ar/products/personal-care</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zenhouzinternational.com/en/products/personal-care" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://zenhouzinternational.com/ar/products/personal-care" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zenhouzinternational.com/en/products/tissue-paper</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zenhouzinternational.com/en/products/tissue-paper" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://zenhouzinternational.com/ar/products/tissue-paper" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zenhouzinternational.com/ar/products/tissue-paper</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zenhouzinternational.com/en/products/tissue-paper" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://zenhouzinternational.com/ar/products/tissue-paper" />
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Solutions -->
+  <url>
+    <loc>https://zenhouzinternational.com/en/solutions</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zenhouzinternational.com/en/solutions" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://zenhouzinternational.com/ar/solutions" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zenhouzinternational.com/ar/solutions</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zenhouzinternational.com/en/solutions" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://zenhouzinternational.com/ar/solutions" />
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Markets -->
+  <url>
+    <loc>https://zenhouzinternational.com/en/markets</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zenhouzinternational.com/en/markets" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://zenhouzinternational.com/ar/markets" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zenhouzinternational.com/ar/markets</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zenhouzinternational.com/en/markets" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://zenhouzinternational.com/ar/markets" />
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Contact -->
+  <url>
+    <loc>https://zenhouzinternational.com/en/contact</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zenhouzinternational.com/en/contact" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://zenhouzinternational.com/ar/contact" />
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zenhouzinternational.com/ar/contact</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zenhouzinternational.com/en/contact" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://zenhouzinternational.com/ar/contact" />
+    <priority>0.8</priority>
+  </url>
+</urlset>

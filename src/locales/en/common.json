@@ -1,0 +1,396 @@
+{
+  "brand": {
+    "name": "ZENHOUZ INTERNATIONAL",
+    "tagline": "Global FMCG. Local Expertise. Regional Reach.",
+    "shortDesc": "UAE-based FMCG trading, import, distribution, modern trade, and regional re-export company.",
+    "uaeGateway": "Your Gateway to the UAE FMCG Market"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "products": "Products",
+    "solutions": "Solutions",
+    "markets": "Markets",
+    "contact": "Contact",
+    "partnerCta": "Partner With Us",
+    "languageSwitch": "Language",
+    "themeToggle": "Toggle Theme"
+  },
+  "hero": {
+    "badge": "UAE-BASED FMCG TRADING & DISTRIBUTION",
+    "headline": "Global FMCG. Local Expertise. Regional Reach.",
+    "description": "Zenhouz International connects global FMCG manufacturers and brands with the UAE and regional markets through strategic sourcing, modern trade, distribution and re-export.",
+    "ctaExplore": "Explore Our Products",
+    "ctaPartner": "Partner With Us",
+    "ctaWhatsApp": "Chat on WhatsApp",
+    "slides": {
+      "slide1": {
+        "title": "GLOBAL FMCG SOURCING",
+        "subtitle": "Connecting international suppliers with the UAE market.",
+        "tag": "Worldwide Network"
+      },
+      "slide2": {
+        "title": "UAE DISTRIBUTION",
+        "subtitle": "Reliable FMCG distribution across modern trade and B2B channels.",
+        "tag": "Local Execution"
+      },
+      "slide3": {
+        "title": "REGIONAL RE-EXPORT",
+        "subtitle": "Using the UAE as a gateway to regional markets.",
+        "tag": "GCC Expansion"
+      }
+    }
+  },
+  "trust": {
+    "title": "Core Strengths",
+    "subtitle": "Disciplined operations delivering FMCG excellence across the Emirates",
+    "uaeBased": {
+      "title": "UAE BASED",
+      "desc": "Headquartered in the UAE with deep understanding of local regulatory and consumer dynamics."
+    },
+    "fmcgFocused": {
+      "title": "FMCG FOCUSED",
+      "desc": "Specialized exclusively in high-turnover consumer goods, mother-baby, food, and household hygiene."
+    },
+    "modernTrade": {
+      "title": "MODERN TRADE",
+      "desc": "Built for organized retail, hypermarkets, and supermarket chains with strict compliance standards."
+    },
+    "b2bDistribution": {
+      "title": "B2B DISTRIBUTION",
+      "desc": "Streamlined distribution infrastructure serving wholesale buyers and commercial enterprises."
+    },
+    "regionalReach": {
+      "title": "REGIONAL REACH",
+      "desc": "Strategic UAE logistics gateway connecting sourcing channels with GCC and regional re-export corridors."
+    }
+  },
+  "about": {
+    "badge": "Corporate Profile",
+    "headline": "Your Gateway to the UAE FMCG Market",
+    "lead": "Zenhouz International is a UAE-based FMCG trading and distribution company connecting international manufacturers and brands with UAE retail, modern trade, organized trade and B2B markets.",
+    "whoWeAre": {
+      "title": "Who We Are",
+      "desc": "We are a dedicated commercial trading house established in the United Arab Emirates, bridging the gap between world-class FMCG manufacturers and the dynamic retail ecosystem of the Gulf region."
+    },
+    "whatWeDo": {
+      "title": "What We Do",
+      "desc": "We manage end-to-end commercial operations: identifying high-potential consumer products, navigating UAE regulatory compliance, managing port-of-entry imports, and executing distribution across retail and wholesale channels."
+    },
+    "ourApproach": {
+      "title": "Our Approach",
+      "desc": "Disciplined, transparent, and partner-centric. We view our suppliers as long-term brand principals, focusing on sustained market placement rather than short-term spot trading."
+    },
+    "whyPartner": {
+      "title": "Why Partner With Us",
+      "desc": "Our direct access to modern trade buyers, agile warehousing logistics in the UAE, and unwavering commitment to brand integrity make Zenhouz the ideal partner for market entry and scaling."
+    },
+    "uaeAdvantage": {
+      "title": "The Strategic UAE Hub",
+      "desc": "With world-class maritime ports, advanced logistics corridors, and a thriving consumer demographic, the UAE serves as the premier launchpad for Middle Eastern commerce."
+    }
+  },
+  "products": {
+    "badge": "Portfolio",
+    "heading": "Essential Consumer Goods",
+    "subheading": "Comprehensive FMCG categories curated for modern retail and high-volume distribution",
+    "exploreCategory": "Explore Category",
+    "viewAll": "View All Categories",
+    "channelsServed": "Channels Served",
+    "productRange": "Product Specifications & Range",
+    "b2bInquiry": "Order or Inquire for Wholesale",
+    "categories": {
+      "babyCare": {
+        "title": "Baby & Mother Care",
+        "desc": "Premium diapers, gentle wipes, and maternal wellness essentials meeting highest dermatological and safety standards."
+      },
+      "foodGrocery": {
+        "title": "Food & Grocery",
+        "desc": "Packaged shelf-stable foods, biscuits, snacks, confectionery, and dry groceries sourced from trusted producers."
+      },
+      "household": {
+        "title": "Household Products",
+        "desc": "Disinfectants, surface cleaners, laundry consumables, and home care essentials for modern households."
+      },
+      "personalCare": {
+        "title": "Personal Care",
+        "desc": "Everyday personal hygiene, soaps, hair care, skin protection, and daily consumer wellness articles."
+      },
+      "tissuePaper": {
+        "title": "Tissue & Paper Products",
+        "desc": "High-grade virgin pulp facial tissues, toilet rolls, kitchen paper towels, and institutional disposables."
+      }
+    },
+    "items": {
+      "babyDiapers": {
+        "name": "Baby Diapers",
+        "desc": "Ultra-absorbent baby diapers with soft breathable cotton-feel materials, wetness indicators, and leak barriers."
+      },
+      "babyWipes": {
+        "name": "Baby Wipes",
+        "desc": "Gentle hypoallergenic wet wipes formulated with 99% pure water and soothing extracts, free from harsh chemicals."
+      },
+      "trainingPants": {
+        "name": "Training Pants",
+        "desc": "Flexible pull-up training pants engineered with 360-degree elastic waistbands for active toddlers."
+      },
+      "babyHygiene": {
+        "name": "Baby Hygiene",
+        "desc": "Daily delicate hygiene items including underpads, baby cotton swabs, and specialized cleansing aids."
+      },
+      "motherBabyCare": {
+        "name": "Mother & Baby Care",
+        "desc": "Postnatal hygiene sets, nursing pads, and specialized care essentials for mother and infant wellbeing."
+      },
+      "packagedFoods": {
+        "name": "Packaged Foods",
+        "desc": "International shelf-stable packaged foods compliant with UAE food safety and municipal standards."
+      },
+      "snacks": {
+        "name": "Snacks",
+        "desc": "Crunchy savory snacks, extruded potato chips, and roasted nut varieties appealing to diverse consumer palates."
+      },
+      "biscuits": {
+        "name": "Biscuits",
+        "desc": "Sweet tea biscuits, rich cream-filled sandwich cookies, and wafer bars in high-turnover retail formats."
+      },
+      "cereals": {
+        "name": "Cereals",
+        "desc": "Wholesome breakfast cereals, corn flakes, and multi-grain clusters fortified for modern family breakfast tables."
+      },
+      "dryGrocery": {
+        "name": "Dry Grocery",
+        "desc": "Long shelf-life kitchen staples including rice, grain, pasta, and culinary condiments for retail shelves."
+      },
+      "confectionery": {
+        "name": "Confectionery",
+        "desc": "Milk chocolates, fruit-flavored chewy gummies, hard candies, and seasonal gifting confections."
+      },
+      "beverages": {
+        "name": "Beverages",
+        "desc": "Refreshing fruit juices, functional ready-to-drink teas, and premium sparkling beverages."
+      },
+      "cleaningProducts": {
+        "name": "Cleaning Products",
+        "desc": "Multi-surface antibacterial cleaners, heavy-duty floor wash, and glass sparkle sprays."
+      },
+      "householdConsumables": {
+        "name": "Household Consumables",
+        "desc": "Concentrated dishwashing gels, laundry liquid detergents, and fabric softening rinses."
+      },
+      "homeEssentials": {
+        "name": "Home Essentials",
+        "desc": "Heavy-duty garbage bags, aluminum food wrap foils, parchment paper, and kitchen sponges."
+      },
+      "paperProductsHome": {
+        "name": "Home Paper Products",
+        "desc": "Absorbent multi-ply kitchen towels, embossed dinner napkins, and soft table tissues."
+      },
+      "personalHygiene": {
+        "name": "Personal Hygiene",
+        "desc": "Gentle body washes, antibacterial liquid hand wash, and everyday sanitizing essentials."
+      },
+      "personalCareItems": {
+        "name": "Personal Care Items",
+        "desc": "Nourishing shampoo formulas, moisture-rich hair conditioners, and daily skin hydration lotions."
+      },
+      "everydayConsumerProducts": {
+        "name": "Everyday Consumer Products",
+        "desc": "Razor kits, oral dental kits, cotton wool pads, and antiperspirant body roll-ons."
+      },
+      "facialTissues": {
+        "name": "Facial Tissues",
+        "desc": "Luxurious 2-ply and 3-ply virgin wood pulp facial tissue boxes and compact pocket packs."
+      },
+      "toiletPaper": {
+        "name": "Toilet Paper",
+        "desc": "Soft, rapidly dissolvable quilted toilet paper rolls designed for consumer and institutional facilities."
+      },
+      "disposablePaper": {
+        "name": "Disposable Paper Products",
+        "desc": "Eco-conscious paper plates, hot/cold beverage cups, and paper cutlery for retail & catering."
+      },
+      "commercialConsumables": {
+        "name": "Commercial Consumables",
+        "desc": "High-capacity maxi rolls, centerfeed paper dispensers, and heavy-traffic restroom supplies."
+      }
+    }
+  },
+  "solutions": {
+    "badge": "Services & Capabilities",
+    "headline": "From Global Sourcing to Market Distribution",
+    "subheading": "Comprehensive supply chain infrastructure connecting global brands with retail channels",
+    "supplyChainTitle": "Integrated Supply Chain Flow",
+    "supplyChainSubtitle": "Synchronized logistics from international manufacturer factory gates to consumer hands",
+    "globalSourcing": {
+      "title": "Global Sourcing",
+      "desc": "Identifying certified international FMCG manufacturers to source high-demand consumer goods with competitive pricing.",
+      "point1": "Vetted manufacturer network across Asia, Europe, and the Americas",
+      "point2": "Rigorous product quality auditing and safety compliance",
+      "point3": "Private label and exclusive brand representation agreements",
+      "cta": "Discuss Sourcing"
+    },
+    "importTrade": {
+      "title": "Import & Trade",
+      "desc": "Handling complete import logistics, customs clearance, and municipal regulatory compliance across UAE ports.",
+      "point1": "Seamless Dubai & UAE seaport customs documentation",
+      "point2": "Municipality product registration & food safety approvals",
+      "point3": "Container freight coordination and bonded transit",
+      "cta": "Inquire Import"
+    },
+    "modernTrade": {
+      "title": "Modern Trade",
+      "desc": "Structured supply pipelines tailored for hypermarkets, supermarkets, and organized retail chains.",
+      "point1": "Listing management and category positioning support",
+      "point2": "Adherence to stringent retail supply level agreements (SLAs)",
+      "point3": "Prompt restocking and barcode/SKU compliance",
+      "cta": "Modern Trade Supply"
+    },
+    "b2bDistribution": {
+      "title": "B2B Distribution",
+      "desc": "Efficient fleet and logistics distribution delivering steady stock to B2B purchasers and corporate clients.",
+      "point1": "Flexible order fulfillment and scheduled deliveries",
+      "point2": "Consistent temperature and warehouse storage conditions",
+      "point3": "Dedicated commercial account management",
+      "cta": "B2B Distribution"
+    },
+    "wholesaleSupply": {
+      "title": "Wholesale Supply",
+      "desc": "Bulk inventory availability for regional distributors, wholesale traders, and institutional procurers.",
+      "point1": "High-volume container and pallet pricing structures",
+      "point2": "Rapid pallet dispatch from UAE distribution hubs",
+      "point3": "Reliable inventory buffers for seasonal demand",
+      "cta": "Wholesale Inquiries"
+    },
+    "reExport": {
+      "title": "Re-export",
+      "desc": "Leveraging the UAE's premier maritime and logistics infrastructure to re-export goods to GCC and regional markets.",
+      "point1": "Multi-modal cross-border transport to GCC nations",
+      "point2": "Customs-bonded re-export documentation",
+      "point3": "Transit consolidation and palletization services",
+      "cta": "Re-export Solutions"
+    }
+  },
+  "modernTradeSection": {
+    "badge": "Retail Excellence",
+    "title": "Built for Modern Trade",
+    "desc": "Zenhouz International specializes in meeting the exacting criteria of modern organized retail in the UAE.",
+    "channels": {
+      "hypermarkets": "Hypermarkets & Mega Stores",
+      "supermarkets": "Supermarket Chains & Urban Marts",
+      "retailChains": "Specialized Retail & Department Stores",
+      "b2bBuyers": "B2B Commercial & Corporate Buyers",
+      "wholesale": "Wholesale Merchants & Re-exporters"
+    },
+    "commitments": [
+      "Strict compliance with UAE municipality food and hygiene standards",
+      "Accurate palletization, GS1 barcoding, and bilingual labeling",
+      "Consistent fill rates and reliable delivery scheduling",
+      "Dedicated commercial support for retail shelf optimization"
+    ]
+  },
+  "markets": {
+    "badge": "Geographic Vision",
+    "headline": "From the UAE. Connected to the World.",
+    "subheading": "The United Arab Emirates as the cornerstone of regional and global FMCG trading",
+    "uae": {
+      "title": "United Arab Emirates",
+      "badge": "Primary Market & Headquarters",
+      "desc": "Our foundational domestic market with comprehensive distribution to modern trade, hypermarket chains, supermarkets, and B2B buyers across all seven Emirates.",
+      "point1": "Complete coverage across Dubai, Abu Dhabi, and Northern Emirates",
+      "point2": "Direct relationships with organized supermarket & retail networks",
+      "point3": "Rapid order turnaround and local UAE warehouse fulfillment",
+      "point4": "Deep familiarity with local municipality and regulatory requirements"
+    },
+    "gcc": {
+      "title": "Gulf Cooperation Council (GCC)",
+      "badge": "Regional Vision",
+      "desc": "Extending trade bridges across the GCC utilizing bonded transit, land logistics, and consolidated re-export capabilities.",
+      "point1": "Strategically positioned for cross-border transit to Saudi Arabia, Oman, Qatar, Kuwait, and Bahrain",
+      "point2": "Unified GCC regulatory standards harmonization",
+      "point3": "Consolidated multi-category pallet shipments"
+    },
+    "regional": {
+      "title": "Regional Markets",
+      "badge": "Broader Middle East & Surrounding Corridors",
+      "desc": "Facilitating trading channels to neighboring Middle Eastern, North African, and South Asian trade partners via UAE maritime routes.",
+      "point1": "Maritime hub connectivity through Jebel Ali and UAE deepwater ports",
+      "point2": "Export container consolidation and phytosanitary processing",
+      "point3": "Experienced in regional commercial documentation"
+    },
+    "international": {
+      "title": "International Sourcing",
+      "badge": "Worldwide Supply Hubs",
+      "desc": "Connecting world-class consumer goods manufacturers across Europe, Asia, and the Americas directly into the UAE trade hub.",
+      "point1": "Vetted manufacturer relationships with high production capacity",
+      "point2": "Direct factory-gate container procurement",
+      "point3": "Long-term partnership commitments with global principals"
+    }
+  },
+  "partnership": {
+    "badge": "Strategic Alliances",
+    "headline": "Collaborate With Zenhouz International",
+    "subheading": "Whether you are a global brand seeking Middle Eastern distribution or a buyer sourcing premium FMCG products",
+    "globalBrands": {
+      "badge": "For Manufacturers & Brand Principals",
+      "title": "Enter the UAE Market",
+      "desc": "Partner with Zenhouz International to develop your presence across UAE retail, modern trade, and B2B channels with a trusted local commercial partner.",
+      "cta": "Partner With Us"
+    },
+    "buyers": {
+      "badge": "For Retailers & Wholesale Buyers",
+      "title": "Source FMCG Products",
+      "desc": "Access high-demand FMCG consumer goods through a reliable, UAE-based trading and distribution partner with streamlined logistics.",
+      "cta": "Request Product Catalogue"
+    }
+  },
+  "contact": {
+    "badge": "Get in Touch",
+    "headline": "Let's Build a Business Connection",
+    "subheading": "Direct communication with our commercial team. No automated forms — reach us instantly via WhatsApp, email, or telephone.",
+    "whatsappCard": {
+      "title": "WhatsApp Direct",
+      "desc": "Instant messaging with our commercial trading desk for product inquiries, catalogue requests, and partnership discussions.",
+      "cta": "Chat on WhatsApp"
+    },
+    "emailCard": {
+      "title": "Corporate Email",
+      "desc": "Send formal business proposals, supplier company profiles, or wholesale inquiries directly to our management.",
+      "cta": "Send Email"
+    },
+    "phoneCard": {
+      "title": "Phone Call",
+      "desc": "Speak directly with our UAE commercial representatives during standard business hours.",
+      "cta": "Call Us"
+    },
+    "partnerCta": {
+      "title": "Looking for a UAE FMCG Distribution Partner?",
+      "desc": "Let's discuss sourcing, distribution, market entry, and regional opportunities. Connect with our leadership team today.",
+      "cta": "Start a Conversation"
+    }
+  },
+  "footer": {
+    "tagline": "Global FMCG. Local Expertise. Regional Reach.",
+    "companyDesc": "UAE-based FMCG trading, import, distribution, wholesale, modern trade, B2B supply, and re-export company connecting global manufacturers with the UAE and regional markets.",
+    "quickLinks": "Company Navigation",
+    "productCategories": "Product Categories",
+    "solutionsTitle": "Trading Solutions",
+    "contactInfo": "Direct Contact",
+    "copyright": "© Zenhouz International. All Rights Reserved.",
+    "disclaimer": "All commercial operations registered in the United Arab Emirates."
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "desc": "The page you are looking for doesn't exist or may have moved. Please navigate back to our home page or explore our product portfolio.",
+    "btnHome": "Back to Home",
+    "btnProducts": "Explore Products"
+  },
+  "common": {
+    "backToTop": "Back to Top",
+    "floatingWhatsAppTooltip": "Chat with Zenhouz",
+    "readMore": "Learn More",
+    "breadcrumbHome": "Home",
+    "allProducts": "All Categories",
+    "contactCommercial": "Contact Commercial Desk"
+  }
+}
