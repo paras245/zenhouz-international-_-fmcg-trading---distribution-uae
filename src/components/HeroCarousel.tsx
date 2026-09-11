@@ -17,7 +17,6 @@ export const HeroCarousel: React.FC = () => {
   const { isRtl, getLocalizedPath } = useLanguage();
   const { t } = useTranslation();
   const [currentSlide, setCurrentSlide] = useState(0);
-  const [isPaused, setIsPaused] = useState(false);
   const touchStartX = useRef(0);
   const touchEndX = useRef(0);
 
@@ -57,10 +56,9 @@ export const HeroCarousel: React.FC = () => {
 
   // Autoplay timer
   useEffect(() => {
-    if (isPaused) return;
     const interval = setInterval(nextSlide, 6500);
     return () => clearInterval(interval);
-  }, [isPaused, nextSlide]);
+  }, [nextSlide]);
 
   // Keyboard navigation
   useEffect(() => {
@@ -107,8 +105,6 @@ export const HeroCarousel: React.FC = () => {
     <div
       id="hero-carousel"
       className="relative min-h-[90vh] sm:min-h-[92vh] flex items-center justify-center overflow-hidden bg-[#050505]"
-      onMouseEnter={() => setIsPaused(true)}
-      onMouseLeave={() => setIsPaused(false)}
       onTouchStart={handleTouchStart}
       onTouchMove={handleTouchMove}
       onTouchEnd={handleTouchEnd}
@@ -194,23 +190,6 @@ export const HeroCarousel: React.FC = () => {
 
       {/* Carousel Navigation Arrows */}
       
-
-      {/* Pagination Indicators */}
-      <div className="absolute bottom-8 z-20 flex items-center justify-center gap-3">
-        {slides.map((_, index) => (
-          <button
-            key={index}
-            type="button"
-            onClick={() => setCurrentSlide(index)}
-            aria-label={`Go to slide ${index + 1}`}
-            className={`h-2 rounded-full transition-all duration-300 ${
-              index === currentSlide
-                ? 'w-8 bg-[#D4AF37]'
-                : 'w-2 bg-white/30 hover:bg-white/60'
-            }`}
-          />
-        ))}
-      </div>
     </div>
   );
 };
