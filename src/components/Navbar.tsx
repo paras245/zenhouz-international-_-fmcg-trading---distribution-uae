@@ -76,7 +76,7 @@ export const Navbar: React.FC = () => {
             {/* Desktop Right Controls */}
             <div className="hidden lg:flex items-center gap-3">
               <LanguageToggle />
-              <ThemeToggle />
+              
               <Link
                 to={getLocalizedPath('contact')}
                 id="navbar-partner-cta"
@@ -89,7 +89,7 @@ export const Navbar: React.FC = () => {
             {/* Mobile Hamburger & Controls */}
             <div className="flex items-center gap-2 lg:hidden">
               <LanguageToggle />
-              <ThemeToggle />
+              
               <button
                 type="button"
                 onClick={() => setMobileMenuOpen(true)}
