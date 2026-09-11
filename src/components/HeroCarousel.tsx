@@ -193,24 +193,7 @@ export const HeroCarousel: React.FC = () => {
       </div>
 
       {/* Carousel Navigation Arrows */}
-      <div className="absolute inset-y-0 left-4 right-4 z-20 flex items-center justify-between pointer-events-none">
-        <button
-          type="button"
-          onClick={isRtl ? nextSlide : prevSlide}
-          aria-label="Previous Slide"
-          className="pointer-events-auto p-2.5 sm:p-3 rounded-full border border-[#D4AF37]/30 bg-[#0B0B0B]/70 hover:bg-[#D4AF37] text-[#D4AF37] hover:text-[#050505] transition-all duration-200 backdrop-blur-md"
-        >
-          <ChevronLeft className="w-5 h-5 sm:w-6 sm:h-6" />
-        </button>
-        <button
-          type="button"
-          onClick={isRtl ? prevSlide : nextSlide}
-          aria-label="Next Slide"
-          className="pointer-events-auto p-2.5 sm:p-3 rounded-full border border-[#D4AF37]/30 bg-[#0B0B0B]/70 hover:bg-[#D4AF37] text-[#D4AF37] hover:text-[#050505] transition-all duration-200 backdrop-blur-md"
-        >
-          <ChevronRight className="w-5 h-5 sm:w-6 sm:h-6" />
-        </button>
-      </div>
+      
 
       {/* Pagination Indicators */}
       <div className="absolute bottom-8 z-20 flex items-center justify-center gap-3">

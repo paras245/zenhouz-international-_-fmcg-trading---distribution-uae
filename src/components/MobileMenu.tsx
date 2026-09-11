@@ -79,7 +79,7 @@ export const MobileMenu: React.FC<MobileMenuProps> = ({ isOpen, onClose }) => {
         <div className="pt-6 border-t border-[#D4AF37]/15 space-y-4">
           <div className="flex items-center justify-between gap-3">
             <LanguageToggle className="flex-1 justify-center" />
-            <ThemeToggle />
+            
           </div>
 
           {/* Partner With Us CTA */}
